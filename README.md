@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @niyonkuruelisa
 - 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalr,event bus,entity framework,..
-- 🌱 I’m currently with different software project with CI/CD,VPS & Azure deployments and practicing software development standard.
+- 🌱 I’m currently working with different software project with CI/CD,VPS & Azure deployments and practicing software development standard.
 - 💞️ I’m looking to make the world a better place with software engineering.
 - 📫 How to reach me 
 Email: niyonkuruelisa@gmail.com
