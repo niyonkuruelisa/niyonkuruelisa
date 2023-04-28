@@ -1,3 +1,5 @@
+[![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyonkuruelisa&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=merko)](https://github.com/niyonkuruelisa/niyonkuruelisa)
+
 - 👋 Hi, I’m @niyonkuruelisa
 - 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalr,event bus,entity framework,..
 - 🌱 I’m currently with different software project with CI/CD,VPS & Azure deployments and practicing software development standard.
