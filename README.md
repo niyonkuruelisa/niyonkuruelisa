@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niyonkuruelisa
-- 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalr,event bus with Azure service bus & RabbitMQ,entity framework,..
+- 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalr,event bus with Azure service bus & RabbitMQ, Different databases include but not limited to CosmosDB,PostgeSQL,...
 - 🌱 I’m currently working with different software project with CI/CD,VPS & Azure deployments wih software development standard and archtecture.
 - 💞️ I’m looking to make the world a better place with software engineering.
 - 📫 How to reach me 
