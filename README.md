@@ -4,7 +4,7 @@
 - 💞️ I’m looking to make the world a better place with software engineering.
 - 📫 How to reach me 
 Email: niyonkuruelisa@gmail.com
-Phone: +250789103253
+Phone: +250785290539
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
