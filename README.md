@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niyonkuruelisa
-- 👀 I’m interested in Full-stack Software Development with C# .net 6+, C++, Dart, Bash, Typescript as my goto Languages and SignalR, Redis, Docker, event bus with Azure service bus & RabbitMQ just to make life Easier,
+- 👀 I’m interested in Full-stack Software Development with C# .net 6+, C++, Dart, Bash, Typescript as my goto Languages and SignalR, Redis, Docker, event bus with Azure service bus & RabbitMQ just to make life Easier.
  <br>I'm using different databases such as CosmosDB,PostgeSQL,SQLite and Cassandra to make one-of-a-kind and unforgettable memories today!.
   
 - 🌱 I’m currently working with different Monolithic and Microservice software projects with CI/CD On Linux VPS & Azure Cloud Infrastructure wih Seucurity, software development standard and archtecture.
