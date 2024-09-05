@@ -8,7 +8,7 @@ Phone: +250785290539
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Fidele's github stats](https://github-readme-stats.vercel.app/api?username=niyonkuruelisa&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/niyonkuruelisa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyonkuruelisa&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/niyonkuruelisa)|![niyonkuruelisa](https://github-readme-streak-stats.herokuapp.com/?user=niyonkuruelisa&theme=dark)
+|[![Elisa's github stats](https://github-readme-stats.vercel.app/api?username=niyonkuruelisa&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/niyonkuruelisa)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyonkuruelisa&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/niyonkuruelisa)|![niyonkuruelisa](https://github-readme-streak-stats.herokuapp.com/?user=niyonkuruelisa&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=niyonkuruelisa)
 <!---
