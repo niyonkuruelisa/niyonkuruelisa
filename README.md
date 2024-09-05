@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyonkuruelisa
-- 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalr,event bus with Azure service bus & RabbitMQ, Different databases include but not limited to CosmosDB,PostgeSQL,...
-- 🌱 I’m currently working with different software project with CI/CD,VPS & Azure deployments wih software development standard and archtecture.
+- 👀 I’m interested in Full-stack Software Development with C# .net 6+, signalR,event bus with Azure service bus & RabbitMQ, I'm using different databases such as CosmosDB,PostgeSQL,SQLite and Cassandra.
+- 🌱 I’m currently working with different Monolithic and Micros service software projects with CI/CD On Linux VPS & Azure Cloud Infrastructure wih Seucurity, software development standard and archtecture.
 - 💞️ I’m looking to make the world a better place with software engineering.
 - 📫 How to reach me 
 Email: niyonkuruelisa@gmail.com
